@@ -7,3 +7,8 @@ I'm 21 yo Automatics and Robotics student who is passionate about programming in
 
 ### :monocle_face: Take a look at my projects:
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMajerczyk&layout=compact" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PMajerczyk&show_icons=true&theme=en" />
+
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PMajerczyk" /> </p>
