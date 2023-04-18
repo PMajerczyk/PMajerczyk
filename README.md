@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pawel Majerczyk
 
-I'm 21 yo Automatics and Robotics student who is passionate about programming and 3D modeling. 
+I'm 21 yo Automation and Robotics student who is passionate about programming and 3D modeling. 
 
 * :man_student: I’m currently learning at AGH in Cracow  <img src="https://github.com/PMajerczyk/PMajerczyk/blob/main/img/AGH.png" width="15" height="30"/>           <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMajerczyk&layout=compact" /> 
 
